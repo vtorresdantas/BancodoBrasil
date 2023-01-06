@@ -48,6 +48,17 @@ A redação será, exclusivamente, de caráter eliminatório. O exame terá o mo
 
 O resultado final está previsto para o dia 14 de julho. Após a homologação do concurso, a seleção ficará válida por um ano, prorrogável por igual período.
 
+## Conteúdo
+
+### Conhecimentos básicos
+
+![image](https://user-images.githubusercontent.com/62342894/211089876-2c1f5a9e-9b7e-4390-aa55-6f3a306d06e1.png)
+
+### Conhecimentos específicos
+
+![image](https://user-images.githubusercontent.com/62342894/211089929-07bf3158-8c39-420f-9d6b-ad6a4952ab6f.png)
+![image](https://user-images.githubusercontent.com/62342894/211089940-dee2d115-5ed4-4557-9acb-1fdce0da732a.png)
+
 ## Referências
 
 https://www.cesgranrio.org.br/concursos/evento.aspx?id=bb0122
